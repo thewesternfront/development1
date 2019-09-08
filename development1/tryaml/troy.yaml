@@ -1,11 +1,10 @@
-Group: OMCLD
-Team: QA
+Group: Ebmedded Analytics UI
+Team: SDET
 Engineers:
   - Troy West
-  - Yan Wang
-  - Sanchita Karmakar
+  - Gloria Chen
 Projects:
-  - Harlech
-  - HDT
-  - ZDT
-  - "Cloud ORS"
+  - Dashboards
+  - Aurora
+  - Prism
+

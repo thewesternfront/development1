@@ -8,7 +8,7 @@ The Items will be Python Objects that are returned
 after indexing the item type with a string descriptor
 """
 
-import water_moccasin.Item as Item
+import Item as Item
 
 
 class Backpack:

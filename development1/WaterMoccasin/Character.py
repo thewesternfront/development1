@@ -5,7 +5,7 @@ Author: Troy West
 Date: 3/16/2019
 Purpose: Create Character
 """
-from water_moccasin.Backpack import Backpack
+from WaterMoccasin.Backpack import Backpack
 
 
 class Character:

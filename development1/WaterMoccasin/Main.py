@@ -6,9 +6,9 @@ Date: 3/16/2019
 Purpose: Main
 """
 
-from water_moccasin.Backpack import Backpack
-from water_moccasin.Character import Character
-from water_moccasin.Item import Item
+from WaterMoccasin.Backpack import Backpack
+from WaterMoccasin.Character import Character
+from WaterMoccasin.Item import Item
 
 
 def createCharacter():
