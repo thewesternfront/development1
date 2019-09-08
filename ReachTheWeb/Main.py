@@ -2,13 +2,15 @@
 import urllib.request
 import urllib.parse
 import sys
-my_url = "http://www.brainjar.com/java/host/test.html"
+#my_url = "http://www.brainjar.com/java/host/test.html"
+my_url = "https://belowmiddlec.co.uk/blog"
 
 
 def reachTheWeb():
     print("Accessing ...")
 
-    my_url = "http://www.brainjar.com/java/host/test.html"
+    #my_url = "http://www.brainjar.com/java/host/test.html"
+    my_url = "http://belowmiddlec.co.uk"
 
     try:
         with urllib.request.urlopen(my_url)as doc:

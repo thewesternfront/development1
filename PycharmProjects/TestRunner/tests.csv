@@ -1,0 +1,2 @@
+environment,ServiceControl,ots1,stop,harlech_properties
+environment,ServiceControl,ots1,start,harlech_properties
