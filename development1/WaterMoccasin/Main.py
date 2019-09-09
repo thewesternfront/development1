@@ -9,6 +9,7 @@ Purpose: Main
 from WaterMoccasin.Backpack import Backpack
 from WaterMoccasin.Character import Character
 from WaterMoccasin.Item import Item
+from WaterMoccasin.Logger import Logger
 
 
 def createCharacter():
@@ -38,15 +39,11 @@ def createCharacter():
     print(newitem.itemsize)
 
 
-
 def main():
+    logs = Logger()
     print("main method")
     createCharacter()
-
-
-
-
-
+    logs.logEvent("this is a new event", 'DEBUG')
 
 
 

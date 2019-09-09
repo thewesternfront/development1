@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae38ae7-54c2-4970-9cbb-64c151b411ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/.idea/WaterMoccasin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/.idea/water_moccasin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/Backpack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/Character.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/FileOperations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/GameOptionsMenu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/Item.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/Logger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/Main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/Player.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterMoccasin/water_moccasin/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tryaml/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tryaml/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tryaml/troy.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tryaml/troy.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WaterMoccasin/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/WaterMoccasin/Main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +10,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WaterMoccasin/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="314">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="e#76#119#0" expanded="true" />
               </folding>
@@ -47,85 +39,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QuantumMatrices/MatrixTools.py">
+        <entry file="file://$PROJECT_DIR$/WaterMoccasin/Logger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-692" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ReachTheWeb/Main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-46" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestRunner/Main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="49">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TroyPython/Main.py">
+        <entry file="file://$PROJECT_DIR$/WaterMoccasin/Item.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WaterMoccasin/Backpack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-104">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WaterMoccasin/Character.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-383">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WaterMoccasin/FileOperations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tryaml/Main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/QuantumMath/Main.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tryaml/troy.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_umd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="196" selection-start-line="196" selection-end-line="196" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataAnalysis1/ch05_07.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/WaterMoccasin/GameOptionsMenu.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -137,18 +98,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/WaterMoccasin/Backpack.py" />
-        <option value="$PROJECT_DIR$/WaterMoccasin/Main.py" />
         <option value="$PROJECT_DIR$/WaterMoccasin/Character.py" />
         <option value="$PROJECT_DIR$/tryaml/troy.yaml" />
         <option value="$PROJECT_DIR$/tryaml/Main.py" />
+        <option value="$PROJECT_DIR$/WaterMoccasin/Logger.py" />
+        <option value="$PROJECT_DIR$/WaterMoccasin/Main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
-    <option name="y" value="44" />
-    <option name="width" value="1156" />
-    <option name="height" value="677" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-29" />
+    <option name="y" value="45" />
+    <option name="width" value="1236" />
+    <option name="height" value="711" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -167,7 +129,7 @@
             <path>
               <item name="development1" type="b2602c69:ProjectViewProjectNode" />
               <item name="development1" type="462c0819:PsiDirectoryNode" />
-              <item name="DataAnalysis1" type="462c0819:PsiDirectoryNode" />
+              <item name="QuantumMath" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="development1" type="b2602c69:ProjectViewProjectNode" />
@@ -177,22 +139,12 @@
             <path>
               <item name="development1" type="b2602c69:ProjectViewProjectNode" />
               <item name="development1" type="462c0819:PsiDirectoryNode" />
-              <item name="ReachTheWeb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="development1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="development1" type="462c0819:PsiDirectoryNode" />
-              <item name="TestRunner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="development1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="development1" type="462c0819:PsiDirectoryNode" />
-              <item name="TroyPython" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="development1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="development1" type="462c0819:PsiDirectoryNode" />
               <item name="tryaml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="development1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="development1" type="462c0819:PsiDirectoryNode" />
+              <item name="WaterMoccasin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Main">
+  <component name="RunManager" selected="Python.Main (2)">
     <configuration name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="development1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,22 +201,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="development1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Anagram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QuantumMath" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Anagram/Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QuantumMath/Main.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -352,18 +301,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Main (1)" />
-      <item itemvalue="Python.Main (3)" />
       <item itemvalue="Python.Main (4)" />
       <item itemvalue="Python.Main (5)" />
       <item itemvalue="Python.Main" />
+      <item itemvalue="Python.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Main (2)" />
+        <item itemvalue="Python.Main (1)" />
         <item itemvalue="Python.Main" />
         <item itemvalue="Python.Main (5)" />
         <item itemvalue="Python.Main (4)" />
-        <item itemvalue="Python.Main (1)" />
-        <item itemvalue="Python.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +329,7 @@
       <workItem from="1567914801726" duration="580000" />
       <workItem from="1567915469791" duration="38000" />
       <workItem from="1567983547010" duration="91000" />
-      <workItem from="1567983653717" duration="1860000" />
+      <workItem from="1567983653717" duration="3871000" />
     </task>
     <task id="LOCAL-00001" summary="revamped WM">
       <created>1567915237304</created>
@@ -393,18 +342,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2569000" />
+    <option name="totallyTimeSpent" value="4580000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="44" width="1156" height="677" extended-state="0" />
-    <editor active="true" />
+    <frame x="25" y="45" width="1236" height="711" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25224417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23534338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33743408" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -414,13 +362,13 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3008547" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.27625203" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" x="0" y="0" width="228" height="482" id="Documentation" order="4" side_tool="true" visible="true" weight="0.23877917" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49336872" weight="0.32978722" />
+      <window_info anchor="right" x="0" y="0" width="228" height="482" id="Documentation" order="4" sideWeight="0.5066313" side_tool="true" weight="0.32978722" />
+      <window_info anchor="right" id="Database" order="5" sideWeight="0.49867374" weight="0.32978722" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,23 +382,9 @@
     <SUITE FILE_PATH="coverage/development1$Main__2_.coverage" NAME="Main (2) Coverage Results" MODIFIED="1567915333156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataAnalysis1" />
     <SUITE FILE_PATH="coverage/development1$Main__3_.coverage" NAME="Main (3) Coverage Results" MODIFIED="1567915484656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Anagram" />
     <SUITE FILE_PATH="coverage/development1$Main.coverage" NAME="Main Coverage Results" MODIFIED="1567915039427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/development1$Main__1_.coverage" NAME="Main (1) Coverage Results" MODIFIED="1567983724922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WaterMoccasin" />
+    <SUITE FILE_PATH="coverage/development1$Main__1_.coverage" NAME="Main (1) Coverage Results" MODIFIED="1567987265946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WaterMoccasin" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WaterMoccasin/Character.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WaterMoccasin/Backpack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataAnalysis1/Main.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -503,24 +437,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WaterMoccasin/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#76#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/QuantumMatrices/MatrixTools.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-692" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReachTheWeb/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46" />
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
@@ -566,6 +485,58 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReachTheWeb/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WaterMoccasin/Item.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WaterMoccasin/GameOptionsMenu.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WaterMoccasin/Character.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-383">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WaterMoccasin/Backpack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WaterMoccasin/Logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WaterMoccasin/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#76#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WaterMoccasin/FileOperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuantumMath/Main.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
