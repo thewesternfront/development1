@@ -14,7 +14,7 @@ class Logger:
     default_logging_level = 'DEBUG'
 
     def __init__(self):
-        logging.basicConfig(filename='/Users/cymru/Desktop/gamedata.log', filemode='a',
+        logging.basicConfig(filename='/Users/cymruclan/Desktop/gamedata.log', filemode='a',
                             format='%(asctime)s \t %(name)s \t %(levelname)s \t %(message)s',
                             level=logging.DEBUG, datefmt='%d-%b-%y %H:%M:%S')
 

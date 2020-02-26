@@ -6,10 +6,13 @@ Date: 3/16/2019
 Purpose: Main
 """
 
-from WaterMoccasin.Backpack import Backpack
-from WaterMoccasin.Character import Character
-from WaterMoccasin.Item import Item
-from WaterMoccasin.Logger import Logger
+
+from Backpack import Backpack
+from Character import Character
+from Item import Item
+from Logger import Logger
+from BattleEngine import BattleEngine
+
 
 
 def createCharacter():
@@ -39,11 +42,20 @@ def createCharacter():
     print(newitem.itemsize)
 
 
+
+def battleEngineTest():
+    be = BattleEngine()
+    be.engineTest()
+
+
 def main():
     logs = Logger()
     print("main method")
     createCharacter()
+    battleEngineTest()
     logs.logEvent("this is a new event", 'DEBUG')
+
+
 
 
 
