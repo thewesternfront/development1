@@ -8,6 +8,7 @@ Purpose: Create Character
 
 import random
 from Logger import Logger
+from Character import Character
 
 class BattleEngine:
 
@@ -15,7 +16,7 @@ class BattleEngine:
     def calculatePlayerStats(self):
         pass
 
-    def engineTest(self):
+    def engineTest(self, opponents):
 
         logger = Logger()
 
@@ -33,5 +34,8 @@ class BattleEngine:
         damage = (attack/defense) * basedamage * crit
         print(f"you did {damage} damage")
         logger.logEvent(f"you did {damage} damage", "DEBUG")
+
+        # Log passed in opponent name
+        logger.logEvent(opponents[0].charactername, "DEBUG")
 
 

@@ -44,8 +44,25 @@ def createCharacter():
 
 
 def battleEngineTest():
+
+    # Battle Engine Object
     be = BattleEngine()
-    be.engineTest()
+
+    # Create opponents for battle
+    player1 = Character("Player1", "Welsh", "Mesmer", 100, 100)
+    player2 = Character("Player2", "Scottish", "Elementalist", 100, 100)
+
+    opponents = []
+    opponents.append(player1)
+    opponents.append(player2)
+
+    # Print Character Info for battle
+    print(opponents[0].charactername)
+    print(opponents[1].charactername)
+    print(opponents)
+
+
+    be.engineTest(opponents)
 
 
 def main():

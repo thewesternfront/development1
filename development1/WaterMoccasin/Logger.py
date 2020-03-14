@@ -18,7 +18,7 @@ class Logger:
                             format='%(asctime)s \t %(name)s \t %(levelname)s \t %(message)s',
                             level=logging.DEBUG, datefmt='%d-%b-%y %H:%M:%S')
 
-    def logEvent(self, log_event, log_level):
+    def logEvent(self, log_event: object, log_level: object) -> object:
 
         if log_level == 'WARNING':
             logging.warning(log_event)
