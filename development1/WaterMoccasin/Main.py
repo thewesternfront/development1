@@ -52,6 +52,12 @@ def battleEngineTest():
     player1 = Character("Player1", "Welsh", "Mesmer", 100, 100)
     player2 = Character("Player2", "Scottish", "Elementalist", 100, 100)
 
+    # Test Battle Status and Friendly Status
+    player1.setBattleStatus(False)
+    player1.setFriendlyStatus(True)
+
+    print(" Player 1's Status is " + (str(player1.getBattleStatus())) + " " + (str(player1.getFriendlyStatus())))
+
     opponents = []
     opponents.append(player1)
     opponents.append(player2)
@@ -61,8 +67,8 @@ def battleEngineTest():
     print(opponents[1].charactername)
     print(opponents)
 
-
     be.engineTest(opponents)
+
 
 
 def main():

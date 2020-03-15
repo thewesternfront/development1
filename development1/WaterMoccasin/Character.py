@@ -10,6 +10,10 @@ from Backpack import Backpack
 
 class Character:
 
+    friendly: bool = True
+    inBattle: bool = False
+
+
     # Constructor
     def __init__(self, chname, chrace, chclass, chhitpoints, chmagicpoints):
         self.charactername = chname
@@ -18,6 +22,9 @@ class Character:
         self.characterhitpoints = chhitpoints
         self.charactermagicpoints = chmagicpoints
         self.characterbackpack = Backpack
+        # not passed in but assumed until made otherwise.
+        self.friendly = True
+        self.inBattle = False
 
     def showDetails(self):
         print("Character Details: " + self.charactername + " " + self.characterrace + " " + self.characterclass + " " +
@@ -39,6 +46,13 @@ class Character:
     def setMagicPoints(self, newmagicpoints):
         self.charactermagicpoints = newmagicpoints
 
+    def setFriendlyStatus(self, fstatus):
+        self.friendly = fstatus
+
+    def setBattleStatus(self, bstatus):
+        self.inBattle = bstatus
+
+
     # Getters
     def getName(self):
         return self.charactername
@@ -54,3 +68,9 @@ class Character:
 
     def getMagicPoints(self):
         return self.charactermagicpoints
+
+    def getFriendlyStatus(self):
+        return self.friendly
+
+    def getBattleStatus(self):
+        return self.inBattle
